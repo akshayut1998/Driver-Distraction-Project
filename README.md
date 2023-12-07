@@ -17,7 +17,8 @@ The performance of the models were evaluated using accuracy on an unseen dataset
 
 ## Instructions
 1. Clone the repository: `git clone https://github.com/akshayut1998/DriverDistractionProject.git`
-2. Run the 'Driver Distraction Project.ipynb' notebook': Follow the steps and run the notebook sequentially to reproduce our results.
+2. Make sure to download the dataset from Kaggle- `https://www.kaggle.com/competitions/state-farm-distracted-driver-detection`
+3. Run the 'Driver Distraction Project.ipynb' notebook': Follow the steps and run the notebook sequentially to reproduce our results.
 
 Feel free to contribute, raise issues, or provide feedback. Together, let's contribute to making our roads safer by combating distracted driving.
 
