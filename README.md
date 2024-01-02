@@ -22,4 +22,8 @@ The performance of the models were evaluated using accuracy on an unseen dataset
 
 Feel free to contribute, raise issues, or provide feedback. Together, let's contribute to making our roads safer by combating distracted driving.
 
+## Acknowledgements
+
+This was a group project done in collaboration with my teammates- Avi Walyat, Aditya Kumar, Chu Nie, Chang Li
+
 **Happy Coding!**
